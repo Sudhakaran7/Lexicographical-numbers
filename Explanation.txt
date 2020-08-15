@@ -1,0 +1,46 @@
+You are given with n and m, you have to print the numbers in that n and m range in lexicographical arrangement.
+
+Input Description:
+n and m in a single line as integers. (1<n,m,1000)
+
+Output Description:
+print the numbers in that n and m range in lexicographical arrangement.
+
+Sample Input:
+7 15
+
+Sample Output:
+10 11 12 13 14 15 7 8 9
+
+Explanation:
+The numbers are printed in lexicographical arrangement.
+
+Sample Input:
+34 43
+
+Sample Output:
+34 35 36 37 38 39 40 41 42 43
+
+Sample Input:
+94 109
+
+Sample Output:
+100 101 102 103 104 105 106 107 108 109 94 95 96 97 98 99
+
+Sample Input:
+151 162
+
+Sample Output:
+151 152 153 154 155 156 157 158 159 160 161 162
+
+Sample Input:
+99 105
+
+Sample Output:
+100 101 102 103 104 105 99
+
+Sample Input:
+1 20
+
+Sample Output:
+1 10 11 12 13 14 15 16 17 18 19 2 20 3 4 5 6 7 8 9
